@@ -14,10 +14,14 @@ The repository contains the following folders with datasets:
 
 - `categorical_datasets/`: Contains categorical data
   - `dataset_01_mushroom/`
-  - `dataset_02_health_data/`
+  - `dataset_02_.../`: (Future datasets will be added here)
   
 - `mixed_datasets/`: Contains mixed data (numerical and categorical)
-  - `dataset_03_climate_data/`
+ - `dataset_01_.../`: (Future datasets will be added here)
+
+## Future Additions and Contributions
+
+We plan to continuously expand this repository with new datasets relevant to anomaly detection in various fields. Future datasets will be added to the respective folders.
   
 Each dataset includes a `data.csv` file and a `README.md` file detailing the origin, description of variables, and the method used for detecting outliers.
 
