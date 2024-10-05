@@ -6,7 +6,7 @@ A collection of datasets for outlier detection in mixed and categorical data. Ea
 
 This repository contains a collection of datasets intended for outlier detection analysis in mixed and categorical data. Each dataset includes an additional column `is_outlier`, which indicates whether a given record was classified as an outlier.
 
-The purpose of this repository is to support research on anomaly detection across various scientific fields, with the option for free use and modification of the data.
+The purpose of this repository is to support research on anomaly detection across various scientific fields, with the data available for use and modification.
 
 ## Repository Contents
 
