@@ -23,7 +23,7 @@ The repository contains the following folders with datasets:
 
 We plan to continuously expand this repository with new datasets relevant to anomaly detection in various fields. Future datasets will be added to the respective folders.
   
-Each dataset includes a `data.csv` file and a `README.md` file detailing the origin, description of variables, and the method used for detecting outliers.
+Each dataset includes a `data.csv` file, divided into training and testing sets, and a `README.md` file, which provide detailed descriptions of the origin, the method of modification, and the preparation of the dataset for research.
 
 ## Dataset Description
 
