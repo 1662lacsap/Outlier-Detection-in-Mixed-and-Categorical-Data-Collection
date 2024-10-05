@@ -40,14 +40,19 @@ To use the data, simply download the CSV files located in the `categorical_datas
 
 ## Citation
 
+The purpose of this repository is to support research on anomaly detection across various scientific fields. It was inspired by an article I wrote, which utilized initial datasets. 
+This repository aims to collect and share data that will be used in future scientific studies. Although not all datasets that will be added here were used in the original article, 
+they are all inspired by that initial research and are intended to contribute to scientific development in this field.
+
+
 If you use these datasets in your research, please attribute the work as follows:
 
 - **Author**: [Your Name]
 - **Dataset Title**: [Dataset Title]
-- **Article Title**: [Article Title]
+- **Article Title**: [Improving Detection Efficiency: Optimizing Block Size in the Local Outlier Factor (LOF) Algorithm]
 - **DOI of the Article**: [Insert Article DOI]
 - **License**: [https://creativecommons.org/licenses/by/4.0/]
-- **Data Source**: [Link to your GitHub repository]
+- **Data Source**: [https://github.com/1662lacsap/Outlier-Detection-in-Mixed-and-Categorical-Data-Collection]
 
 Example citation:
 
@@ -61,8 +66,14 @@ The full license text is available here: [https://creativecommons.org/licenses/b
 
 ## Contact
 
-If you have any questions about this repository or would like to collaborate, please contact me:
+If you have any questions about this repository or would like to collaborate, please reach out via the following:
 
-- Email: [your.email@example.com]
-- GitHub: [https://github.com/your-account]
+- **GitHub Issues**: For any questions or suggestions, feel free to open a new issue in this repository. This is the preferred way to communicate as it allows open discussion and collaboration with the community.
+  - [Repository Link](https://github.com/1662lacsap/Outlier-Detection-in-Mixed-and-Categorical-Data-Collection)
+
+- **GitHub Profile**: You can also contact me through my GitHub profile.
+  - [https://github.com/lacsap](https://github.com/1662lacsap)
+
+
+
 
